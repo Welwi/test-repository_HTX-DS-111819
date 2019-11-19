@@ -6,7 +6,7 @@ Gimme a test! (TEST)
 
 ## Steps to Follow
 
-1. Fork this repository edna
+1. Fork this repository edna stela
 2. Clone _your_ repository to your local drive
 3. Add a file of some kind to your repository, or make changes to this readme
 4. Check the status of your repository
